@@ -102,3 +102,8 @@ FROM crosstab(
    ORDER BY job_role, job_satisfaction'
 	) AS ct(job_role varchar(50), one numeric, two numeric, three numeric, four numeric)
 ORDER BY job_role;
+
+
+/* source: www.youtube.com/@datatutorials */
+
+/* Thank You :) */
